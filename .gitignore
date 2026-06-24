@@ -21,3 +21,6 @@ models/
 assets/images/archive/
 assets/overlays/
 mfa_input/
+mfa_output/
+assets/subtitles/whisperx/
+image.log
