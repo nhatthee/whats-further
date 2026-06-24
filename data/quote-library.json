@@ -1,0 +1,442 @@
+[
+  {
+    "id": "001",
+    "theme": "self-discovery",
+    "quote": [
+      "The truth is...",
+      "Most people never become who they could be.",
+      "Not because they failed.",
+      "Because they stopped too early.",
+      "What's further?"
+    ]
+  },
+  {
+    "id": "002",
+    "theme": "lost-love",
+    "quote": [
+      "The saddest truth...",
+      "Sometimes love survives only in memories.",
+      "Not in reality anymore.",
+      "But inside your heart forever.",
+      "Still there."
+    ]
+  },
+  {
+    "id": "003",
+    "theme": "breakup-grief",
+    "quote": [
+      "The strange thing...",
+      "You miss the future more than them.",
+      "Not the person themselves.",
+      "But the life you imagined together.",
+      "Sometimes only."
+    ]
+  },
+  {
+    "id": "004",
+    "theme": "unexpected-endings",
+    "quote": [
+      "The hardest goodbye...",
+      "Some endings arrive without words or warnings.",
+      "No explanation was offered.",
+      "Only questions remained behind afterward.",
+      "For years."
+    ]
+  },
+  {
+    "id": "005",
+    "theme": "love-and-loss",
+    "quote": [
+      "The painful lesson...",
+      "Love and permanence are different things entirely.",
+      "Not always connected together.",
+      "Some people stay briefly forever.",
+      "In memory."
+    ]
+  },
+  {
+    "id": "006",
+    "theme": "identity-in-love",
+    "quote": [
+      "The hidden reason...",
+      "Most people miss themselves more than others.",
+      "Not the relationship itself.",
+      "But who they became inside.",
+      "Back then."
+    ]
+  },
+  {
+    "id": "007",
+    "theme": "returning-home",
+    "quote": [
+      "Love teaches slowly.",
+      "Some hearts return to places once forgotten again,",
+      "not seeking old answers,",
+      "but remembering who they became",
+      "afterward, quietly."
+    ]
+  },
+  {
+    "id": "008",
+    "theme": "unfinished-endings",
+    "quote": [
+      "The hardest part.",
+      "Some people leave before the ending feels real.",
+      "No final door closes.",
+      "Only silence keeps answering back.",
+      "Too often."
+    ]
+  },
+  {
+    "id": "009",
+    "theme": "love-after-loss",
+    "quote": [
+      "The truth remains.",
+      "Love sometimes changes shape after endings arrive quietly,",
+      "not into complete absence,",
+      "but something softer inside memory,",
+      "still moving."
+    ]
+  },
+  {
+    "id": "010",
+    "theme": "closure",
+    "quote": [
+      "Closure feels strange.",
+      "People wait for answers that never arrive fully.",
+      "Not because truth hides,",
+      "but because life keeps moving",
+      "without permission."
+    ]
+  },
+  {
+    "id": "011",
+    "theme": "self-worth",
+    "quote": [
+      "The quiet lesson...",
+      "You cannot make someone choose you forever again,",
+      "not through more effort,",
+      "but through becoming yourself fully,",
+      "at last."
+    ]
+  },
+  {
+    "id": "012",
+    "theme": "fleeting-moments",
+    "quote": [
+      "Love feels simple.",
+      "The best moments rarely announce their importance, not",
+      "while happening yet, but",
+      "years after they pass.",
+      "Too late."
+    ]
+  },
+  {
+    "id": "013",
+    "theme": "nostalgia",
+    "quote": [
+      "Missing feels different.",
+      "You often miss yourself inside old moments too,",
+      "not only their presence,",
+      "but your softer former self",
+      "between pages."
+    ]
+  },
+  {
+    "id": "014",
+    "theme": "healing",
+    "quote": [
+      "The quiet truth.",
+      "Some hearts heal while still remembering everything clearly,",
+      "not through forgetting completely,",
+      "but by carrying love differently",
+      "each day."
+    ]
+  },
+  {
+    "id": "015",
+    "theme": "missing-without-return",
+    "quote": [
+      "The strange pain.",
+      "You can miss someone without wanting them back,",
+      "not from weakness anymore,",
+      "but because memories remain human",
+      "inside you."
+    ]
+  },
+  {
+    "id": "016",
+    "theme": "love-endures",
+    "quote": [
+      "Love changes everything,",
+      "even when two people are no longer together,",
+      "not always loudly either.",
+      "Sometimes it stays underneath,",
+      "still breathing."
+    ]
+  },
+  {
+    "id": "017",
+    "theme": "slow-goodbyes",
+    "quote": [
+      "The hidden ache.",
+      "Some goodbyes happen long before anyone speaks,",
+      "not in one moment,",
+      "but through smaller daily distances,",
+      "growing quietly."
+    ]
+  },
+  {
+    "id": "018",
+    "theme": "chosen-not-forever",
+    "quote": [
+      "The painful truth...",
+      "Being chosen once does not mean forever.",
+      "Not without presence daily.",
+      "Love also needs returning.",
+      "Again. Again."
+    ]
+  },
+  {
+    "id": "019",
+    "theme": "softer-missing",
+    "quote": [
+      "Missing becomes softer",
+      "when you stop asking what went wrong, not",
+      "because pain vanished, but",
+      "because peace finally answered",
+      "for once."
+    ]
+  },
+  {
+    "id": "020",
+    "theme": "returning-home",
+    "quote": [
+      "The final lesson.",
+      "Some love stories end without becoming failures.",
+      "Not every ending breaks.",
+      "Some endings simply return you.",
+      "Back home."
+    ]
+  },
+  {
+    "id": "021",
+    "theme": "people-changing",
+    "quote": [
+      "The overlooked truth...",
+      "People change while standing beside you.",
+      "Not all at once.",
+      "Until one day they're complete strangers.",
+      "Again."
+    ]
+  },
+  {
+    "id": "022",
+    "theme": "ordinary-endings",
+    "quote": [
+      "The difficult part...",
+      "Nobody ever warns you about ordinary endings.",
+      "No final moment.",
+      "Just less and less time together.",
+      "Slowly."
+    ]
+  },
+  {
+    "id": "023",
+    "theme": "louder-absence",
+    "quote": [
+      "The unexpected pain...",
+      "Memories grow stronger after people leave.",
+      "Not before then.",
+      "Somehow absence makes everything much louder.",
+      "Still."
+    ]
+  },
+  {
+    "id": "024",
+    "theme": "cost-of-waiting",
+    "quote": [
+      "The hidden cost...",
+      "Waiting steals more than simple rejection.",
+      "Nobody truly sees it.",
+      "Years disappear inside uncertainty alone.",
+      "Quietly."
+    ]
+  },
+  {
+    "id": "025",
+    "theme": "expired-promises",
+    "quote": [
+      "The sad reality...",
+      "Some promises quietly expire without notice.",
+      "Nobody ever admits it.",
+      "Yet everything changes around them.",
+      "Anyway."
+    ]
+  },
+  {
+    "id": "026",
+    "theme": "ordinary-days",
+    "quote": [
+      "One quiet day...",
+      "You realize ordinary moments were carrying your life.",
+      "Not the milestones themselves.",
+      "Just days you barely noticed.",
+      "Too late."
+    ]
+  },
+  {
+    "id": "027",
+    "theme": "time-passing",
+    "quote": [
+      "The unsettling thing...",
+      "Time moves faster than your awareness.",
+      "You rarely notice it.",
+      "Until memories outnumber future plans.",
+      "Suddenly."
+    ]
+  },
+  {
+    "id": "028",
+    "theme": "youth-leaving",
+    "quote": [
+      "The aging trick...",
+      "You feel young while seasons are quietly leaving.",
+      "Never all at once.",
+      "Until mirrors finally answer differently.",
+      "Years pass."
+    ]
+  },
+  {
+    "id": "029",
+    "theme": "borrowed-tomorrow",
+    "quote": [
+      "The quiet danger...",
+      "Tomorrow always feels safely available forever.",
+      "It never truly is.",
+      "Eventually opportunities stop returning altogether.",
+      "Unannounced."
+    ]
+  },
+  {
+    "id": "030",
+    "theme": "life-postponing",
+    "quote": [
+      "The hard truth...",
+      "Most people spend life postponing themselves.",
+      "Not because they're lazy.",
+      "Because certainty never truly arrives.",
+      "First."
+    ]
+  },
+  {
+    "id": "031",
+    "theme": "private-growth",
+    "quote": [
+      "The unseen growth...",
+      "You become stronger while everything feels quietly broken.",
+      "Not where people watch.",
+      "Only when silence witnesses effort.",
+      "Keep going."
+    ]
+  },
+  {
+    "id": "032",
+    "theme": "healing-tolerance",
+    "quote": [
+      "The honest truth...",
+      "Healing slowly changes what you tolerate.",
+      "Not quite overnight.",
+      "But eventually you stop returning back.",
+      "Quietly."
+    ]
+  },
+  {
+    "id": "033",
+    "theme": "outgrowing-people",
+    "quote": [
+      "The necessary distance...",
+      "You outgrow versions that once protected you completely.",
+      "Not because they failed.",
+      "Because life eventually asks differently.",
+      "Move forward."
+    ]
+  },
+  {
+    "id": "034",
+    "theme": "quiet-discipline",
+    "quote": [
+      "The quiet victory...",
+      "You keep going without any witnesses.",
+      "No applause first.",
+      "Just quiet discipline becoming self respect.",
+      "Daily."
+    ]
+  },
+  {
+    "id": "035",
+    "theme": "self-permission",
+    "quote": [
+      "The honest becoming...",
+      "You stop asking permission from smaller versions inside.",
+      "Not because fear leaves.",
+      "Because regret becomes heavier daily.",
+      "Choose yourself."
+    ]
+  },
+  {
+    "id": "036",
+    "theme": "honest-decisions",
+    "quote": [
+      "The deeper choice...",
+      "Your life changes when honesty becomes necessary again.",
+      "Not motivation or luck.",
+      "Just one truth followed daily.",
+      "Starting now."
+    ]
+  },
+  {
+    "id": "037",
+    "theme": "purpose-emptiness",
+    "quote": [
+      "The dangerous thing...",
+      "You can survive without real purpose.",
+      "For longer than you'd expect.",
+      "But not without losing yourself.",
+      "Along the way."
+    ]
+  },
+  {
+    "id": "038",
+    "theme": "courage-before-ready",
+    "quote": [
+      "The quiet calling...",
+      "Your future keeps asking for courage.",
+      "Not seeking perfection.",
+      "Only movement before you feel ready.",
+      "Forward."
+    ]
+  },
+  {
+    "id": "039",
+    "theme": "direction-over-speed",
+    "quote": [
+      "The quiet direction...",
+      "Speed means nothing when your compass is missing.",
+      "Most people forget this.",
+      "Running faster still changes nothing.",
+      "Find north."
+    ]
+  },
+  {
+    "id": "040",
+    "theme": "beyond-comfort",
+    "quote": [
+      "What's further ahead...",
+      "The better version waiting beyond comfort.",
+      "Not any easier.",
+      "But far more honest than survival.",
+      "Finally."
+    ]
+  }
+]

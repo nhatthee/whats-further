@@ -1,0 +1,41 @@
+[
+  {
+    "clipId": "007",
+    "reason": "Last spoken word ends after 11.48s safety limit; voiceover must be regenerated shorter.",
+    "lastWord": "quietly.",
+    "lastWordEndSeconds": 12.01,
+    "quote": [
+      "Love teaches slowly.",
+      "Some hearts return to places once forgotten again,",
+      "not seeking old answers,",
+      "but remembering who they became",
+      "afterward, quietly."
+    ]
+  },
+  {
+    "clipId": "009",
+    "reason": "Last spoken word ends after 11.48s safety limit; voiceover must be regenerated shorter.",
+    "lastWord": "moving.",
+    "lastWordEndSeconds": 11.61,
+    "quote": [
+      "The truth remains.",
+      "Love sometimes changes shape after endings arrive quietly,",
+      "not into complete absence,",
+      "but something softer inside memory,",
+      "still moving."
+    ]
+  },
+  {
+    "clipId": "015",
+    "reason": "Last spoken word ends after 11.48s safety limit; voiceover must be regenerated shorter.",
+    "lastWord": "you.",
+    "lastWordEndSeconds": 12.01,
+    "quote": [
+      "The strange pain.",
+      "You can miss someone without wanting them back,",
+      "not from weakness anymore,",
+      "but because memories remain human",
+      "inside you."
+    ]
+  }
+]
