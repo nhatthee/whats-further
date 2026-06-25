@@ -1,6 +1,7 @@
 import {
 	AbsoluteFill,
 	Audio,
+	getInputProps,
 	Img,
 	interpolate,
 	Loop,
@@ -18,6 +19,10 @@ import {
 } from './SubtitleAnimationV2';
 import {getImagePath} from './lib/getImagePath';
 import {getMusicFileForClip} from './music-map';
+import {
+	defaultQuoteReelInputProps,
+	type QuoteReelInputProps,
+} from './quote-reel-props';
 import {buildMfaQuoteSchedule} from './subtitle-schedule';
 import {getWordTimingsForClip} from './word-timings';
 
@@ -59,7 +64,14 @@ const QUOTE_TEXT_STYLE: React.CSSProperties = {
 
 const FADE_FRAMES = 6;
 
-export const QuoteReel: React.FC = () => {
+export const QuoteReel: React.FC<QuoteReelInputProps> = () => {
+	const inputProps = {
+		...defaultQuoteReelInputProps,
+		...getInputProps<QuoteReelInputProps>(),
+	};
+	// Render metadata only — experimental visual presets are not applied in production yet.
+	void inputProps;
+
 	const frame = useCurrentFrame();
 	const {durationInFrames, fps} = useVideoConfig();
 

@@ -1,0 +1,117 @@
+[
+  {
+    "text": "the",
+    "start": 0.07,
+    "end": 0.17
+  },
+  {
+    "text": "truth",
+    "start": 0.17,
+    "end": 0.55
+  },
+  {
+    "text": "is",
+    "start": 0.55,
+    "end": 0.97
+  },
+  {
+    "text": "most",
+    "start": 0.97,
+    "end": 1.98
+  },
+  {
+    "text": "people",
+    "start": 1.98,
+    "end": 2.27
+  },
+  {
+    "text": "never",
+    "start": 2.27,
+    "end": 2.6
+  },
+  {
+    "text": "become",
+    "start": 2.6,
+    "end": 3.1
+  },
+  {
+    "text": "who",
+    "start": 3.1,
+    "end": 3.29
+  },
+  {
+    "text": "they",
+    "start": 3.29,
+    "end": 3.46
+  },
+  {
+    "text": "could",
+    "start": 3.46,
+    "end": 3.68
+  },
+  {
+    "text": "be",
+    "start": 3.68,
+    "end": 4.06
+  },
+  {
+    "text": "not",
+    "start": 4.06,
+    "end": 5.25
+  },
+  {
+    "text": "because",
+    "start": 5.25,
+    "end": 5.56
+  },
+  {
+    "text": "they",
+    "start": 5.56,
+    "end": 5.69
+  },
+  {
+    "text": "failed",
+    "start": 5.69,
+    "end": 6.32
+  },
+  {
+    "text": "but",
+    "start": 6.32,
+    "end": 7.44
+  },
+  {
+    "text": "because",
+    "start": 7.44,
+    "end": 7.8
+  },
+  {
+    "text": "they",
+    "start": 7.8,
+    "end": 7.93
+  },
+  {
+    "text": "stopped",
+    "start": 7.93,
+    "end": 8.53
+  },
+  {
+    "text": "too",
+    "start": 8.53,
+    "end": 8.81
+  },
+  {
+    "text": "early",
+    "start": 8.81,
+    "end": 9.32
+  },
+  {
+    "text": "what's",
+    "start": 9.32,
+    "end": 11.03
+  },
+  {
+    "text": "further",
+    "start": 11.03,
+    "end": 11.43
+  }
+]

@@ -68,7 +68,10 @@
     "build-clip": "tsx scripts/build-clip.ts",
     "build-batch": "tsx scripts/build-batch.ts",
     "quote": "tsx scripts/generate-quote.ts",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "smoke:render": "tsx scripts/smoke-render-real.ts",
+    "batch:render": "tsx scripts/batch-render-real.ts",
+    "showcase:render": "tsx scripts/render-preset-showcase.ts",
+    "test": "vitest run"
   },
   "keywords": [],
   "author": "",
@@ -79,6 +82,7 @@
     "@remotion/player": "^4.0.474",
     "@remotion/renderer": "^4.0.474",
     "dotenv": "^17.4.2",
+    "next": "^16.2.9",
     "openai": "^6.44.0",
     "react": "^19.2.7",
     "react-dom": "^19.2.7",
@@ -92,6 +96,7 @@
     "@types/react": "^19.2.17",
     "@types/react-dom": "^19.2.3",
     "tsx": "^4.22.4",
-    "typescript": "^6.0.3"
+    "typescript": "^6.0.3",
+    "vitest": "^4.1.9"
   }
 }
